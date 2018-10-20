@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Define smaller toolbar height for landscape mode -->
+    <dimen name="toolbar_height">56dp</dimen>
+
+    <!-- list_top_margin needs to be greater than @toolbar_height -->
+    <dimen name="list_top_margin">60dp</dimen>
+</resources>
