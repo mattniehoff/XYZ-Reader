@@ -11,8 +11,11 @@
     <dimen name="zero_dp">0dp</dimen>
 
     <!-- Toolbar -->
-    <dimen name="toolbar_elevation">8dp</dimen>
+    <dimen name="toolbar_elevation">4dp</dimen>
     <dimen name="toolbar_height">112dp</dimen>
+
+    <!-- Cardview -->
+    <dimen name="card_view_elevation">1dp</dimen>
 
     <!-- list_top_margin needs to be greater than @toolbar_height -->
     <dimen name="list_top_margin">116dp</dimen>
